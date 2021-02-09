@@ -30,7 +30,7 @@ O intuito de uma organização partindo dos indivíduos, passando por comunidade
 
 Embora as criptomoedas, totalmente descentralizadas, sejam a coqueluche do momento, um sistema similar porém "estatal" faz-se necessário. Deve ser um híbrido entre criptomoedas menos complexas que o Bitcoin (talvez a Nano/Raiblocks) com a *trust party* estatal, mas com vários agentes independentes auditando, que podem a qualquer momento decidir por fazer um *fork* (que pode ser aceito pelas comunidades como a nova entidade confiável).
 
-A trust party, embora "estatal", deve ser totalmente independente e transparente. Ainda que outros agentes independentes sejam usados como validador por parte da comunidade, os impostos devem ser pago via o trust party "estatal".
+A trust party, embora "estatal", deve ser totalmente independente e transparente. Ainda que outros agentes independentes sejam usados como validador por parte da comunidade, os impostos devem ser pagos via o trust party "estatal".
 
 
 ### Impostos
@@ -43,7 +43,26 @@ Impostos cuja finalidade tem causas pseudo-nobres, como "ajudar os menos favorec
 
 No momento, os impostos que fazem sentido ser cobrados são:
 
-- Cidadania - valor único, anual, igual para todos. Praticamente igual à taxa anual de filiação a um clube;
-- Propriedade - baseado no uso do solo, mas com a finalidade de ser usado para a manutenção de vias públicas e correlatos no entorno daquela propriedade. Por exemplo, uma casa num terreno de 20 metros de frente deveria pagar 1 real a cada metro de "testada", pois é necessário para a manutenção da rua e da calçada em frente àquele imóvel ("quem vai construir as estradas ancaps?");
-- Saúde - embora a saúde seja um serviço, não um direito, é importante ter um sistema único (ou vários), para atuar em casos de grande abrangência (e.g., uma pandemia);
-- Segurança e Justiça - similar ao caso da saúde. Embora os cidadão devam ser responsáveis em grande parte por sua segurança (armas totalmente liberadas, sem distinção entre posse e porte), faz-se necessário ter um sistema de policiamento e justiça (totalmente diferente do que existe no Brasil atualmente).
+- **Cidadania** - valor único, anual, igual para todos. Praticamente igual à taxa anual de filiação a um clube;
+- **Propriedade** - baseado no uso do solo, mas com a finalidade de ser usado para a manutenção de vias públicas e correlatos no entorno daquela propriedade. Por exemplo, uma casa num terreno de 20 metros de frente deveria pagar 1 real a cada metro de "testada", pois é necessário para a manutenção da rua e da calçada em frente àquele imóvel ("quem vai construir as estradas ancaps?");
+- **Saúde** - embora a saúde seja um serviço, não um direito, é importante ter um sistema único (ou vários) simples e eficiente (utopia?), para atuar em casos de grande abrangência (e.g., pandemias, desastres naturais);
+- **Segurança e Justiça** - similar ao caso da saúde. Embora os cidadãos devam ser responsáveis em grande parte por sua segurança (armas totalmente liberadas, sem distinção entre posse e porte) e direitos e contratos devam ser simples de entender e sagrados, faz-se necessário ter um sistema de policiamento e justiça (totalmente diferente do que existe no Brasil atualmente).
+
+
+## Implementação
+
+A implementação do projeto deve seguir fases bastante claras e objetivas. A priori, deve começar por pequenas comunidades de pessoas com idéias semelhantes (em conformidade com este projeto) e ir expandindo-se. Os detalhes de cada fase (e quantas e quais serão) ainda devem ser definidos.
+
+
+### Fase 1 - Comunidade Semi-Autônoma
+
+#### Etapa 1 - Prospecção de área rural isolada
+#### Etapa 2 - Compra da terra
+#### Etapa 3 - Desmembramento
+#### Etapa 4 - Adição de pessoas com mentalidade semelhante (early adopters)
+
+
+### Fase 2 - Novas Comunidades Semi-Autônomas
+
+
+### Fase 3 - União das várias comunidades sob regras comuns
