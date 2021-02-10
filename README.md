@@ -32,6 +32,8 @@ Embora as criptomoedas, totalmente descentralizadas, sejam a coqueluche do momen
 
 A trust party, embora "estatal", deve ser totalmente independente e transparente. Ainda que outros agentes independentes sejam usados como validador por parte da comunidade, os impostos devem ser pagos via o trust party "estatal".
 
+Sugestão de nome: [Galt](https://en.wikipedia.org/wiki/John_Galt)
+
 
 ### Impostos
 
@@ -49,20 +51,52 @@ No momento, os impostos que fazem sentido ser cobrados são:
 - **Segurança e Justiça** - similar ao caso da saúde. Embora os cidadãos devam ser responsáveis em grande parte por sua segurança (armas totalmente liberadas, sem distinção entre posse e porte) e direitos e contratos devam ser simples de entender e sagrados, faz-se necessário ter um sistema de policiamento e justiça (totalmente diferente do que existe no Brasil atualmente).
 
 
+### Documentação
+
+Atualmente no Brasil o cidadão comum precisa de vários documentos: RG, CPF, CNH, Título de Eleitor e Carteira de Reservista, apenas para ficar nos básicos. Todos esses devem ser substituídos por um documento de identificação único, que pode ser atualizado (por exemplo, com informações equivalentes à de uma CNH).
+
+
+### Armas, Polícia e Exército
+
+Livres, exceto caso o cidadão faça uma besteira (e.g., cometer um crime). Não deve haver diferença entre **posse** e **porte**. Pode ser necessário definir uma idade mínima.
+
+A polícia deve ser composta de voluntários, com treinamento adequado à necessidade, e sempre com o objetivo de **servir e proteger** os indivíduos.
+
+Servir ao exército não deve ser obrigatório. Até mesmo a necessidade de um exército permanente deve ser revista;
+
+
+### Política
+
+Eleições devem ser rápidas, simples e com pouco impacto na vida do cidadão. Voto deve ser facultativo. Cargos eletivos não podem ser remunerados (é um serviço à comunidade), devem concentrar pouco poder e com as comunidades mais fortes que a união.
+
+Deve-se evitar o sistema bicameral, como o do Brasil, e um sistema mais próximo ao Parlamentarismo é o melhor (ainda assim simplificado). Legisladores e "governantes" devem ser facilmente removidos do cargo (voto de desconfiança?) caso estejam cometendo crimes, irregularidades ou simplesmente não tenham mais apoio popular.
+
+
 ## Implementação
 
 A implementação do projeto deve seguir fases bastante claras e objetivas. A priori, deve começar por pequenas comunidades de pessoas com idéias semelhantes (em conformidade com este projeto) e ir expandindo-se. Os detalhes de cada fase (e quantas e quais serão) ainda devem ser definidos.
 
 
-### Fase 1 - Comunidade Semi-Autônoma
+### Estágio 1 - Flying under the radar
 
-#### Etapa 1 - Prospecção de área rural isolada
-#### Etapa 2 - Compra da terra
-#### Etapa 3 - Desmembramento
-#### Etapa 4 - Adição de pessoas com mentalidade semelhante (early adopters)
+Estágio inicial, onde tudo deve ser feito "na surdina". Neste momentos as comunidades pertencem aos dois mundos, pois ainda não há possibilidade de autonomia total e nem capacidade de resistência.
 
 
-### Fase 2 - Novas Comunidades Semi-Autônomas
+#### Fase 1 - Casa Sobrevivencialista
 
 
-### Fase 3 - União das várias comunidades sob regras comuns
+#### Fase 2 - Comunidade Semi-Autônoma
+
+##### Etapa 1 - Prospecção de área rural isolada
+##### Etapa 2 - Compra da terra
+##### Etapa 3 - Desmembramento
+##### Etapa 4 - Adição de pessoas com mentalidade semelhante (early adopters)
+
+
+#### Fase 3 - Novas Comunidades Semi-Autônomas
+
+
+#### Fase 4 - União das várias comunidades sob regras comuns
+
+
+### Estágio 2 - Mostrar-se ao mundo
